@@ -17,7 +17,7 @@ self.arduino.digital[9].write(1)
 self.arduino.digital[9].write(0)
 ```
 
-El numero **9** indica el pin del arduino puede ser cambiado por el que guste, tomando en cuenta que no debe ser un salidad analoga.
+El numero **9** indica el pin del arduino puede ser cambiado por el que guste.
 
 Cargar del modulo de Firmata en el **IDE** de arduino.
 
