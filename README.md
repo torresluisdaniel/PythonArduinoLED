@@ -1,7 +1,7 @@
 # **Control - LED**
 
 #### **Python 3.8 - Arduino 1.8**
-
+**Interfaz gráfica**
 ## **Funciones**
 
 - Apagar LED
