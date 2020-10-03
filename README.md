@@ -8,7 +8,7 @@
 - Encender LED
 - Comprobar conexión
 
-Por defecto el **LED** debe ir conectado en el pin 9 del arduino, posteriormente se puede cambiar a cualquier el pin, en la sigueinte linea de codigo.
+Por defecto el **LED** debe ir conectado en el pin 9 del arduino, posteriormente se puede cambiar a cualquier el pin, en la siguiente linea de codigo.
 
 **62 - 74**
 
